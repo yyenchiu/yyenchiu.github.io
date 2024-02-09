@@ -10,11 +10,13 @@ Note: 作品目前沒有翻譯成中文版本請見諒
 ## Projects
 ### Los Angeles City Crime Analysis
 This is one of my first full data analytics personal projects. Having spent around 3 years calling LA my home (unfortunately COVID-19 stole a year), I've gotten a good glimpse of the good and the bad that the city has to offer, and it's inspired me to do a deep dive into LA's records of criminal activity and public safety.
-[Link to Notebooks](https://nbviewer.org/github/yyenchiu/LA_Crime_Analysis/tree/main/)
+
+[Project Notebooks](https://nbviewer.org/github/yyenchiu/LA_Crime_Analysis/tree/main/)
 ### USA Urban Crime Analysis
 Following my exploration of crime in LA, I thought it would be interesting to expand the scale and look at crime and safety in the cities of America. 
-Link to nbviewer
-Link to dashboard
+
+[Dashboard](https://us-crime-dash-app.onrender.com/)
+
 ### League of Legends Professional Gameplay Meta Analysis
-[Link to Notebooks](https://nbviewer.org/github/yyenchiu/LoL_Pro_Meta_Analysis/tree/main/)
+[Project Notebooks](https://nbviewer.org/github/yyenchiu/LoL_Pro_Meta_Analysis/tree/main/)
 Link to dashboard
