@@ -8,5 +8,4 @@ Hello! My name is Ian and I'm an aspiring Data Analyst/Data Scientist from Taiwa
 ### Los Angeles City Crime Analysis
 [Link to Notebooks](https://nbviewer.org/github/yyenchiu/LA_Crime_Analysis/tree/main/)
 ### League of Legends Professional Gameplay Meta Analysis
-[Link to Notebooks]
-(https://nbviewer.org/github/yyenchiu/LoL_Pro_Meta_Analysis/tree/main/)
+[Link to Notebooks](https://nbviewer.org/github/yyenchiu/LoL_Pro_Meta_Analysis/tree/main/)
