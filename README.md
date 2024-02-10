@@ -15,10 +15,11 @@ This is one of my first full data analytics personal projects. Having spent arou
 ### USA Urban Crime Analysis
 Following my exploration of crime in LA, I thought it would be interesting to expand the scale and look at crime and safety in the cities of America. The results have been turned into a dashboard that you can use to compare the crime level and relevant statistics between different cities. It should be an intuitive dashboard that utilizes city names and years to navigate, and you can clik on the cities displayed in the various graphs to get basic information about their crime levels.
 
-[Dashboard](https://us-crime-dash-app.onrender.com/)
+[Dashboard](https://us-crime-dash-app.onrender.com/) Note: Dashboard is hosted online and might take 60+ seconds to fully load.
 
 [Project Notebooks](https://nbviewer.org/github/yyenchiu/US_Crime_Analysis/tree/main/)
 
 ### League of Legends Professional Gameplay Meta Analysis
+
 [Project Notebooks](https://nbviewer.org/github/yyenchiu/LoL_Pro_Meta_Analysis/tree/main/)
 Link to dashboard
