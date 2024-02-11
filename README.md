@@ -21,5 +21,6 @@ Following my exploration of crime in LA, I thought it would be interesting to ex
 
 ### League of Legends Professional Gameplay Meta Analysis
 This is a personal project I started because I am a long-time fan of the popular video game League of Legends (started playing since I was in 5th grade!). While I am not a very good player by any metric, I enjoy thinking about "the meta", which is basically which champions are currently the best to play. Some of my favourite champions never make it to the professional meta, which made me wonder why certain champions are better suited for professional play than others. I decided to gather all the available data on professional tournaments and conduct an analysis on the changes in professional meta as a starting point to this question.
+
 [Project Notebooks](https://nbviewer.org/github/yyenchiu/LoL_Pro_Meta_Analysis/tree/main/)
 
