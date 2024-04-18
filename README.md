@@ -2,8 +2,8 @@
 ## Introduction
 Hello! My name is Ian and I'm an aspiring Data Analyst/Data Scientist from Taiwan. While pursuing a degree in Business Administration at USC, I took an interest in Applied Data Analytics and Machine Learning in a business setting, propelling me on this exciting path. I love being able to tell meaningful and impactful stories through the use of data, and have been building up my skillset to make it possible. This online portfolio includes some of my personal projects where I collect and explore data that are of personal interest.
 
-你好，我叫做邱育彥，目前打算在台灣作為數據分析師發展。大學雖然就讀企管系，但是因個人興趣而接觸統計，商用數據分析，以及商用機器學習。我以能有效的用數據說故事為目標來學習。以下有我的幾個個人作品。
-Note: 作品目前沒有翻譯成中文版本請見諒
+你好，我叫做邱育彥，目前打算在台灣作為數據分析師發展。大學時就讀USC的企管系，途中因個人興趣而接觸應用統計學，資訊管理，商用數據分析，以及商用機器學習。我的職業目標是通過對數據分析以及商業分析的專業來幫助團隊面對新挑戰，個人目標是精進自己用數字說故事的能力。以下是我的個人作品。
+
 
 ### Technical Skills/硬技術: Python, SQL, NoSQL, R, Tableau, RapidMiner, MATLAB
 
